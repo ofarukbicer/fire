@@ -2,7 +2,7 @@
     "name": "omerfarukbicer0446/fire",
     "description": "Sezar şifreleme yöntemi ile güzel bir şifreleme yöntemi :)",
     "type": "library",
-    "license": "GNU",
+    "license": "MIT",
     "authors": [
         {
             "name": "omerfarukbicer0446",
