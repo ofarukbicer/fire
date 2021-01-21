@@ -38,7 +38,7 @@ echo $fire->decode('55c5ac2LsmLsm88c--5Eg8088cippLsmdimİİ',true);
 ## 🌐 Telif Hakkı ve Lisans
 
 * *Copyright (C) 2021 by* [omerfarukbicer0446](https://github.com/omerfarukbicer0446) ❤️️
-* [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/omerfarukbicer0446/fire/blob/master/LICENSE) *Koşullarına göre lisanslanmıştır..*
+* [MIT LICENSE](https://github.com/omerfarukbicer0446/fire/blob/master/LICENSE) *Koşullarına göre lisanslanmıştır..*
 
 ## ♻️ İletişim
 
