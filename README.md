@@ -3,7 +3,7 @@
 ### Kurulum
 
 1. Composer bilgisayarınızda kurulu olması lazımdır.
-2. Terminal'e `composer require omerfarukbicer0446/fire` yazın.
+2. Terminal'e `composer require omerfarukbicer0446/fire 1.3` yazın.
 3. Kurulum bitti :) 
 
 ## Örnek Kullanım
